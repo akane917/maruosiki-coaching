@@ -4146,7 +4146,11 @@ header p {
   }
 
   .course1-price p {
-    font-size: 3.8rem;
+    font-size: 3.5rem;
+  }
+  
+  .course1-price p span {
+    font-size: 1.8rem;
   }
 
   .course1-price button {
@@ -4194,11 +4198,11 @@ header p {
 
   .course2-price p {
     color: #e15808;
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   .course2-price p span {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .course2-price button {
@@ -4259,11 +4263,11 @@ header p {
 
   .course3-price p {
     color: #e15808;
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   .course3-price p span {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .course3-price button {
