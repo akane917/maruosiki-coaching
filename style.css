@@ -3679,7 +3679,7 @@ header p {
   /* １ここから */
 
   .one {
-    background-image: url(../ph02/1/bg.png);
+    background-image: url(https://github.com/akane917/maruosiki-coaching/blob/main/ph02/1/bg.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -3736,7 +3736,7 @@ header p {
   /* ２ここから */
 
   .nayami1 {
-    background-image: url(../ph02/2/2.png);
+    background-image: url(https://github.com/akane917/maruosiki-coaching/blob/main/ph02/2/2.png?raw=true);
     width: 390px;
     height: 720px;
   }
@@ -3806,7 +3806,7 @@ header p {
   }
 
   .three-bg {
-    background-image: url(../ph02/3/レイヤー\ 1625.png);
+    background-image: url(https://github.com/akane917/maruosiki-coaching/blob/main/ph02/3/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%201625.png?raw=true);
   }
 
 
